@@ -1,0 +1,6 @@
+@railwayBookingApp_HostAddress = http://localhost:5141
+
+GET {{railwayBookingApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
